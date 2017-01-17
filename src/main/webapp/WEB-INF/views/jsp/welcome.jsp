@@ -22,7 +22,7 @@
 <nav class="navbar navbar-inverse">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Spring 4 MVC Ajax Hello World</a>
+			<a class="navbar-brand" href="#">Spring 4 MVC Ajax Hello World - Testing the file </a>
 		</div>
 	</div>
 </nav>
