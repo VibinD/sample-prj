@@ -12,5 +12,9 @@ In order to run this gatling locally please do the following steps:
   <ul> 3.password=</ul>
 </ul>
 <ul> Run the maven command or run it from eclipse</ul>
-```` mvn ````
-``` mvn clean gatling:execute ```
+
+```
+git status
+git add
+git commit
+```
