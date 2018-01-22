@@ -1,4 +1,4 @@
-# SAMC Gatling Automation
+#  Automation
 
 ### FOR DEVELOPERS:
 
