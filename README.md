@@ -14,7 +14,5 @@ In order to run this gatling locally please do the following steps:
 <ul> Run the maven command or run it from eclipse</ul>
 
 ```
-git status
-git add
-git commit
+mvn clean gatling:execute
 ```
