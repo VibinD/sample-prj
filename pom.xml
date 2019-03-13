@@ -16,6 +16,11 @@
 		<jstl.version>1.2</jstl.version>
 		<servletapi.version>3.1.0</servletapi.version>
 	</properties>
+	
+	<scm>
+        	<connection>scm:git:git@github.com:VibinD/sample-prj.git</connection>
+	        <developerConnection>scm:git:git@github.com:VibinD/sample-prj.git</developerConnection>
+	</scm>
 
 	<dependencies>
 
