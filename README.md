@@ -17,6 +17,9 @@ In order to run this gatling locally please do the following steps:
 mvn clean gatling:execute
 ```
 
+Prerequisite,
+	<ul>1. Maven 3.5.0 or later</ul>
+	<ul>2. JDK 1.8<ul>
 
 # Welcome to StackEdit!
 
